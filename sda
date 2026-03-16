@@ -1,0 +1,24 @@
+[33mcommit 3d0a4c69461c91cfe3321bb5ccdc94e2d0be32c7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 8211a48 9da1dd9
+Author: Aleks <aleksbengard@gmail.com>
+Date:   Mon Mar 16 16:22:02 2026 +0500
+
+    Merge branch 'test'
+
+[33mcommit 8211a48fb64c5494fcb0eb10da43d9c6d0d79442[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Aleks <aleksbengard@gmail.com>
+Date:   Mon Mar 16 15:49:15 2026 +0500
+
+    added file1
+
+[33mcommit 9da1dd9ef0801899e4b4933bb048b74c339fb5ff[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Aleks <aleksbengard@gmail.com>
+Date:   Mon Mar 16 15:48:33 2026 +0500
+
+    added file2.txt
+
+[33mcommit 8c6b4df597c17736555fb077c36a2ecc404e93bc[m
+Author: aleksbengard <aleksbengard@gmail.com>
+Date:   Sun Mar 15 19:40:37 2026 +0500
+
+    Initial commit
